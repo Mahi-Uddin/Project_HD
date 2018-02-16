@@ -1,0 +1,10 @@
+{
+  "name": "project_hd",
+  "version": "1.0.0",
+  "description": "HayDay project",
+  "main": "Server/index.js",
+  "scripts": {
+    "start": "Server/index.js"
+  },
+  "author": "Zihad"
+}
